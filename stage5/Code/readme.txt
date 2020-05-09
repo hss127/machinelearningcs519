@@ -1,5 +1,5 @@
 
-
+The file for training/testing is trace.py
 Get the data for training and testing at the link below:
 https://drive.google.com/drive/folders/1dBiQR1se8hd3CB2rbMoLEAWdiTmXVPZ7
 
